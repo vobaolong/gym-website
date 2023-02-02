@@ -11,8 +11,7 @@ const Footer = () => {
             <div className="logo">
               <div className="logo__img">
                 <img src={logo} alt="" />
-              </div>
-              <h2>Fitbody</h2>
+              </div
             </div>
             <p>
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat
